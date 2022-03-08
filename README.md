@@ -3,7 +3,7 @@ Gastrointestinal System Pathology Cases
 
 ## Schwann Cell Hamartoma in a Colon Polyp
 
-- - [https://pathologyatlas.github.io/schwanncellhamartoma/HE.html](https://pathologyatlas.github.io/schwanncellhamartoma/HE.html)
+- [https://pathologyatlas.github.io/schwanncellhamartoma/HE.html](https://pathologyatlas.github.io/schwanncellhamartoma/HE.html)
 
 - See Microscopy with viewer: 
 

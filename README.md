@@ -10,4 +10,11 @@ Gastrointestinal System Pathology Cases
 <iframe src="https://pathologyatlas.github.io/schwanncellhamartoma/HE.html" width="100%" height="400px"></iframe>
 
 
+## Hamartomatous Polyp
+
+- [https://pathologyatlas.github.io/hamartomatouspolyp/HE.html](https://pathologyatlas.github.io/hamartomatouspolyp/HE.html)
+
+- See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/hamartomatouspolyp/HE.html" width="100%" height="400px"></iframe>
 
